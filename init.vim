@@ -18,3 +18,4 @@ highlight CursorLine cterm=none
 highlight CursorLineNr cterm=none ctermfg=magenta
 set encoding=utf-8
 set fileencoding=utf-8
+set complete+=i
