@@ -2,7 +2,7 @@ syntax on
 set number
 set showmatch
 set ignorecase
-set hlsearch
+set nohlsearch
 set incsearch
 set tabstop=4
 set softtabstop=4
